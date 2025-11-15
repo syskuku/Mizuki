@@ -1,5 +1,5 @@
 ---
-title: 欢迎来到iMikufans备用的小站！
+title: 欢迎来到iMikufans Blog2
 published: 2025-09-21
 tags: [Markdown, Blogging, Demo]
 category: Examples
