@@ -23,7 +23,7 @@
 
 A modern, feature-rich static blog template built with [Astro](https://astro.build), featuring advanced functionality and beautiful design.
 
-[**🖥️ Live Demo**](https://mizuki.mysqil.com/)
+[**🖥️ Live Demo**](https://blogx.imikufans.com/)
 [**📝 Documentation**](https://docs.mizuki.mysqil.com/)
 
 🌏 README Languages
